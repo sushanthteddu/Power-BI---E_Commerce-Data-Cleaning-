@@ -1,7 +1,8 @@
 **Project Overview**
 
 This project focuses on cleaning messy e-commerce data and building a professional executive-level dashboard using Microsoft Power BI. The goal is to transform raw, inconsistent data into meaningful business insights through data cleaning, transformation, and interactive visualizations.
-**Objective**
+
+****Objective**
 
 As a Business Intelligence Developer, the objective of this project is to:
 Clean and transform messy e-commerce data using Power Query
@@ -10,6 +11,7 @@ Build a professional single-page executive dashboard
 Deliver actionable business insights
 
 This project demonstrates:
+
 Data Cleaning Skills
 Business Understanding
 Dashboard Design
@@ -24,8 +26,10 @@ Missing values
 Business logic issues
 All issues were resolved before building visualizations.
 
-Phase 1 — Data Cleaning (Power Query)
+**Phase 1 — Data Cleaning (Power Query)**
+
 Data Type Corrections
+
 Order Date → Date
 
 Quantity → Whole Number
@@ -35,6 +39,7 @@ Unit Price → Decimal
 Discount → Whole Number
 
 Text Standardization
+
 Customer Name → Proper Case
 
 Email → Lowercase
@@ -59,11 +64,11 @@ Final Revenue = Total Amount − Discount Amount
 
 Month extracted from Order Date
 
-Phase 2 — Executive Dashboard
+**Phase 2 — Executive Dashboard**
 
 A single-page interactive executive dashboard was built with the following sections:
 
-KPI Summary
+**KPI Summary**
 
 Total Revenue
 
@@ -73,7 +78,7 @@ Total Customers
 
 Average Discount
 
-Revenue Performance Analysis
+**Revenue Performance Analysis**
 
 Revenue by City
 
@@ -83,7 +88,7 @@ Monthly Revenue Trend
 
 Customer & Product Insights
 
-Top 5 Customers by Revenue
+**Top 5 Customers by Revenue**
 
 Revenue by Product
 
@@ -91,7 +96,7 @@ Category vs Revenue
 
 Discount Impact Analysis
 
-Interactive Filters
+**Interactive Filters**
 
 City
 
@@ -107,7 +112,7 @@ Power Query
 
 Data Modeling
 
-DAX
+**DAX**
 
 Key Insights
 
