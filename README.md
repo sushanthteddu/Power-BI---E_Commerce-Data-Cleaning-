@@ -1,6 +1,6 @@
 # Power-BI---E_Commerce-Data-Cleaning-
 
-Power BI Project — E-Commerce Data Cleaning & Executive Dashboard
+
 **Project Overview**
 This project focuses on cleaning messy e-commerce data and building a professional executive-level dashboard using Microsoft Power BI. The goal is to transform raw, inconsistent data into meaningful business insights through data cleaning, transformation, and interactive visualizations.
 **Objective**
