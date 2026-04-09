@@ -10,7 +10,7 @@ Apply business logic transformations
 Build a professional single-page executive dashboard
 Deliver actionable business insights
 
-This project demonstrates:
+**This project demonstrates:**
 
 Data Cleaning Skills
 Business Understanding
